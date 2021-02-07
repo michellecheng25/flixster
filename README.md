@@ -22,5 +22,8 @@ Flix is a movie browsing app that allows users to browse movies from the [The Mo
 
 ![ezgif com-resize](https://user-images.githubusercontent.com/56702688/107132159-99dc1b00-68aa-11eb-8566-76f25dff5d23.gif)
 
+#### App works on different device sizes and orientations
+![flix rotate - Imgur](https://user-images.githubusercontent.com/56702688/107135739-2eef0c00-68cb-11eb-8f68-6581246e6635.gif)
+
 ### Notes
 N/A
