@@ -80,8 +80,6 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
         // Get the new view controller using segue.destination.
         // Pass the selected object to the new view controller.
         
-        print("Loading the deatils screen")
-        
         //Find the selected movie
         let cell = sender as! UITableViewCell
         let indexPath = tableView.indexPath(for: cell)!
